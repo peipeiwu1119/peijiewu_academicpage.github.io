@@ -19,7 +19,7 @@ sl345536290
 Education 
 ======
 **University of North Carlonia at Charlotte**
-1. 2019/8-Now PhD | INES(Transportation)
+1. 2019/8-Now, PhD candidate, INES(Transportation)
 1. 2019/8-2020/8 Teaching Assistant
 1. 2020/9-Now Research Assistant of CAMMSE
 
