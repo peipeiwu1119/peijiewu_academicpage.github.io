@@ -10,7 +10,7 @@ The [Google Scholar](http://scholar.google.com/citations?user=CyNM5yIAAAAJ&hl=en
 **Under Review:**
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
-**2020**
+**2020**  <br>
 1. **Song, L.**, Li, Y., Fan, W.# and Liu, P., Mixed Logit Approach to Analyzing Pedestrian Injury Severity in Pedestrian-Vehicle Crashes in North Carolina: Considering Time of Day and Day of Week, Traffic Injury Prevention (under review)
 1. **Song, L.**, Fan, W.#, Li, Y. and Wu, P., Exploring Contributing Factors to Pedestrian Injury Severity in Pedestrian-Vehicle Crashes at Uptrending high-frequency locations: A Spatiotemporal Analysis with Latent Class Clustering and Mixed Logit Approach, Accident Analysis and Prevention (under review)
 1. **Song, L.** and Fan, W.#, Exploring Truck Driver-Injury Severity at Cross- And T-Intersections Based on the Latent Class Analysis and Proportional Odds Models: A Case Study of North Carolina, Journal of safety research (under review) 
@@ -19,7 +19,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 **Publication:**
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
-**2020**
+**2020**  <br>
 1. **Song, L.** and Fan, W.#, (2020). Combined Latent Class and Partial Proportional Odds Model Approach to Exploring the Heterogeneities in Truck-Involved Severities at Cross and T-Intersections, Accident Analysis and Prevention,Volume 144, 105638, September 2020. (SCI , Q1)
 
 **2019**
