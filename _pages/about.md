@@ -12,21 +12,19 @@ Li Song is now a Ph.D. candidate majored in Transportation at the University of 
 Contact Information:
 ======
 1. Email Address:
-a) lisong2019uncc@gmail.com;  b) lsong1@uncc.edu;   c) 345536290@qq.com;
+a) <strike>lisong2019uncc@gmail.com</strike>;  b) <strike>lsong1@uncc.edu</strike>;   c) <strike>345536290@qq.com</strike>;
 1. WeChat: 
-sl345536290
+<strike>sl345536290</strike>
 
 Education 
 ======
 **University of North Carlonia at Charlotte**
 1. 2019/8-Now, PhD candidate, INES(Transportation)
 1. 2019/8-2020/8 Teaching Assistant
-1. 2020/9-Now Research Assistant of CAMMSE
-
+1. 2020/9-Now Research Assistant of CAMMSE   <br>
 **Harbin Institute of Technology**
 1. 2017/9 to 2019/6, MS, Transportation Planning and Management
-GPA : 3.35/4.0; Rank: 2/30
-
+GPA : 3.35/4.0; Rank: 2/30     <br>
 **Shanghai Maritime University**
 1. 2013/9-2017/6, BS, Transport and Communication 
 GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
