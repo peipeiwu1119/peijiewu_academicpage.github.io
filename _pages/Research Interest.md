@@ -16,8 +16,6 @@ I am also higly interested in the developing data mining technology.
 
 ## Future Transportation Systems: 
 I am highly interested in technology which could change the furture of the transportation. Including but not limited to: Intellegent tranport control; Sharing mobility; Smart parking; Congestion mitigation.<br>
-<img src='/images/transportation_300_500.png'>
-
 
 # METHODOLOGY
 -----
