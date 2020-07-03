@@ -16,8 +16,8 @@ author_profile: true
 
 **Publication:**
 ======
-(note: corresponding author is noted with #; cooperative first author is noted with *;)</br>
-**2020**
+(note: corresponding author is noted with #; cooperative first author is noted with *;)<br>
+<br>**2020**<br/>
 1. **Song, L.** and Fan, W.#, (2020). Combined Latent Class and Partial Proportional Odds Model Approach to Exploring the Heterogeneities in Truck-Involved Severities at Cross and T-Intersections, Accident Analysis and Prevention,Volume 144, 105638, September 2020. (SCI , Q1)
 
 **2019**
