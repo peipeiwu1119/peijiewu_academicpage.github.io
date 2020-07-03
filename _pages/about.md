@@ -18,26 +18,23 @@ WeChat: sl345536290
 Education 
 ======
 University of North Carlonia at Charlotte
-------
 1. 2019/8-Now PhD | INES(Transportation)
 1. 2019/8-2020/8 Teaching Assistant
 1. 2020/9-Now Research Assistant of CAMMSE
-
+------
 Harbin Institute of Technology
-------
-1. 2017/9 to 2019/6  MS | Transportation Planning and Management
+1. 2017/9 to 2019/6, MS, Transportation Planning and Management
 GPA : 3.35/4.0; Rank: 2/30
-
-Shanghai Maritime University
 ------
-1. 2013/9-2017/6 BS | Transport and Communication 
+Shanghai Maritime University
+1. 2013/9-2017/6, BS, Transport and Communication 
 GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
-
-**Membership**
+------
+**Membership**------
 1. 2020/9-NOW, President, ITE student chapter of UNCC.
 1. 2019/6-NOW, Member, Chinese Overseas Transportation Association (COTA). 
 
-**Referee Service (reviewer)**
+**Referee Service (reviewer)**------
 1. Transportation Research Board (TRB) Annual Meeting 
 1. COTA International Conference for Transportation Professionals 
 
