@@ -4,7 +4,7 @@ layout: archive
 permalink: /Research Interest/
 ---
 # Research Aim:
-<img src="/images/researchAIM.png"  algin="middle"><br>
+<img src="/images/researchAIM.png" width="400" height="400" algin="middle"><br>
 
 # RESEARCH INTEREST
 -----
