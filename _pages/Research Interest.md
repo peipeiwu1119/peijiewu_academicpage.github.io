@@ -9,6 +9,10 @@ permalink: /Research Interest/
 
 # RESEARCH INTEREST
 -----
+<img src="https://lh6.googleusercontent.com/PRoBZq9Vp7ae-N-zohDNzkWBePRu4nvqRnxcg521nlmtbg7RorwXZUwqj0d6fvSiv9s_atDNy-B9pUq_2mohqqHgjT1vflTRcpHDCaipJ0QbVeL0-Fc4=w1280" width="340" height="300">
+<img src="https://lh3.googleusercontent.com/KOw6ggYqWVv9Ziho-Fl-0BpQYdCE6SXtr7O3c_10dlSSVEjMk81SKrn-yE5v0SlEcXZUB5QUAYQtwljGIgRfCMNreHqiBSBHJAWHN_XlB1qc99mcvD4=w1280" width="340" height="300" >
+<img src="https://lh6.googleusercontent.com/NZ0Hex32ntxnvby_ISMdbFONlPp3ms7s2y62pQ9gyJmOGXTUsRJpT56PTe3vpw2cF2YhsnUJn9xoVlLNKXJaP3afUxLjov2nQbkHnntDCqa4s0udL-c=w1280" width="340" height="300" >
+<br>
 ## Connected and Autonomous Vehicles: 
 Intellegent vehicle technologies; Optimal and control method; Simmulation and impacts analysis. 
 
