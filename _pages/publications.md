@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 More info about Li Song can be found in [Research Gate](https://www.researchgate.net/profile/Li_Song60).or [Google Scholar](http://scholar.google.com/citations?user=CyNM5yIAAAAJ&hl=enmight).<br>
-The [googlewebsite]("https://sites.google.com/view/lisong2019/home") also be helpful.
+The [googlewebsite](https://sites.google.com/view/lisong2019/home) also be helpful.
 
 
 **Under Review:**
