@@ -3,8 +3,9 @@ title: "Research Interest"
 layout: archive
 permalink: /Research Interest/
 ---
+# Research Aim:
+<img src='/images/researchAIM.png'><br>
 
-A variety of common markup showing how the theme styles them.
 # RESEARCH INTEREST
 -----
 ## Connected and Autonomous Vehicles: 
@@ -16,6 +17,7 @@ I am also higly interested in the developing data mining technology.
 
 ## Future Transportation Systems: 
 I am highly interested in technology which could change the furture of the transportation. Including but not limited to: Intellegent tranport control; Sharing mobility; Smart parking; Congestion mitigation.<br>
+
 
 # METHODOLOGY
 -----
