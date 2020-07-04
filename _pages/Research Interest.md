@@ -12,6 +12,11 @@ permalink: /Research Interest/
 <img src="https://lh6.googleusercontent.com/PRoBZq9Vp7ae-N-zohDNzkWBePRu4nvqRnxcg521nlmtbg7RorwXZUwqj0d6fvSiv9s_atDNy-B9pUq_2mohqqHgjT1vflTRcpHDCaipJ0QbVeL0-Fc4=w1280" width="213" height="187"> <img src="https://lh3.googleusercontent.com/KOw6ggYqWVv9Ziho-Fl-0BpQYdCE6SXtr7O3c_10dlSSVEjMk81SKrn-yE5v0SlEcXZUB5QUAYQtwljGIgRfCMNreHqiBSBHJAWHN_XlB1qc99mcvD4=w1280" width="213" height="187"> <img src="https://lh6.googleusercontent.com/NZ0Hex32ntxnvby_ISMdbFONlPp3ms7s2y62pQ9gyJmOGXTUsRJpT56PTe3vpw2cF2YhsnUJn9xoVlLNKXJaP3afUxLjov2nQbkHnntDCqa4s0udL-c=w1280" width="213" height="187" >
 <br>
 
+|Connected and Autonomous Vehicles: |Big Data Analytics & Statistics: |Future Transportation Systems: |
+|:--------|:-------:|--------:|
+| Intellegent vehicle technologies; Optimal and control method; Simmulation and impacts analysis. | Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence.<br>
+I am also higly interested in the developing data mining technology.| I am highly interested in technology which could change the furture of the transportation. Including but not limited to: Intellegent tranport control; Sharing mobility; Smart parking; Congestion mitigation.|
+<br>
 ## Connected and Autonomous Vehicles: 
 Intellegent vehicle technologies; Optimal and control method; Simmulation and impacts analysis. 
 
