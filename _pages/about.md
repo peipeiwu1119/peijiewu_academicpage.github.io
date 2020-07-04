@@ -11,8 +11,12 @@ Li Song is now a Ph.D. candidate majored in Transportation at the University of 
 
 Contact Information:
 ======
-1. Email Address: a) `lisong2019uncc@gmail.com `; b) `lsong1@uncc.edu `; c) `345536290@qq.com `;
-1. WeChat: `sl345536290 `
+1. Email Address: <br>
+a) `lisong2019uncc@gmail.com `;<br>
+b) `lsong1@uncc.edu `; <br>
+c) `345536290@qq.com `;
+1. WeChat: <br>
+`sl345536290 `
 
 Education 
 ======
