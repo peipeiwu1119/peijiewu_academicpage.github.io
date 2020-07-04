@@ -6,6 +6,9 @@ permalink: /Research Interest/
 # Research Aim:
 <img src="/images/researchAIM.png" alt="researchAIM" width="340" height="300" algin="middle"><br>
 
+<img src="https://lh5.googleusercontent.com/IenRxFyLuZjzk8Tr7bH-NbJYgCIKLgIzpKSwRCMbciZgvvzqL4ZkcQr90YiVuLIko89tYxo7-bUrGh0SjfqwVK7T0Xxe3Qm50DMCiTccVIDHMr5jg5o=w1280" width="340" height="300" algin="middle"><br>
+
+
 # RESEARCH INTEREST
 -----
 ## Connected and Autonomous Vehicles: 
