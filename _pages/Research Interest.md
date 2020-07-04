@@ -4,7 +4,7 @@ layout: archive
 permalink: /Research Interest/
 ---
 # Research Aim:
-<img src="/images/researchAIM.png" style="width:240px;height:360px;"  algin="middle"><br>
+<img src="lisong.github.io/images/researchAIM.png" width="500" height="600"  algin="middle"><br>
 
 # RESEARCH INTEREST
 -----
