@@ -6,6 +6,7 @@ permalink: /Research Interest/
 # Research Aim:
 ![image](https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png)
 <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="50%" height="50%">
+![image](images/researchAIM.png)
 
 # RESEARCH INTEREST
 -----
