@@ -12,7 +12,7 @@ The [googlewebsite](https://sites.google.com/view/lisong2019/home) also be helpf
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 **2020**  <br>
-1. **Song, L.**,  Fan, W.# and Liu, P., Exploring the effects of connected and automated vehicles at fixed and actuated signalized intersections with different market penetration rates， Journal of Transportation Research Record (under review)
+1. **Song, L.**,  Fan, W.# and Liu, P., Exploring the effects of connected and automated vehicles at fixed and actuated signalized intersections with different market penetration rates, Journal of Transportation Research Record (under review)
 1. **Song, L.**, Li, Y., Fan, W.# and Liu, P., Mixed Logit Approach to Analyzing Pedestrian Injury Severity in Pedestrian-Vehicle Crashes in North Carolina: Considering Time of Day and Day of Week, Traffic Injury Prevention (under review)
 1. **Song, L.**, Fan, W.#, Li, Y. and Wu, P., Exploring Contributing Factors to Pedestrian Injury Severity in Pedestrian-Vehicle Crashes at Uptrending high-frequency locations: A Spatiotemporal Analysis with Latent Class Clustering and Mixed Logit Approach, Accident Analysis and Prevention (under review)
 1. **Song, L.** and Fan, W.#, Exploring Truck Driver-Injury Severity at Cross- And T-Intersections Based on the Latent Class Analysis and Proportional Odds Models: A Case Study of North Carolina, Journal of safety research (under review) 
