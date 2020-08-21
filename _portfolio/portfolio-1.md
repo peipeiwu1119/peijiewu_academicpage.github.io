@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NCDOT Project 2020-2022"
+excerpt: "Thrust 1: CAV Impacts on Transportation Systems and Revenue
+CAV Impacts on Traffic Intersection Capacity and Transportation Revenue
+ <br/>"
 collection: portfolio
 ---
 
