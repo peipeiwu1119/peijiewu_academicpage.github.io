@@ -7,6 +7,7 @@ venue: "Presentation, Poster, Attendance"
 date: 2020-12-01
 location: "International"
 ---
+Including conference of hosting, oral presentation, poster, and attendance only.<br>
 **Hosting:** <br>
 
 
