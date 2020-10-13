@@ -25,7 +25,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 **2020**  <br>
-1. **Song, L.**, Li, Y., Fan, W.#, and Wu, P., Modeling pedestrian-injury severities in pedestrian-vehicle crashes considering spatiotemporal patterns: insights from different hierarchical Bayesian random-effects models. Analytic Methods in Accident Research (SCI , Q1, IF:9.1, Top 1 Journal in Transportation)
+1. **Song, L.**, Li, Y., Fan, W.#, and Wu, P., Modeling pedestrian-injury severities in pedestrian-vehicle crashes considering spatiotemporal patterns: insights from different hierarchical Bayesian random-effects models. <i>Analytic Methods in Accident Research</i> (SCI , Q1, IF:9.1, Top 1 Journal in Transportation)
 1. **Song, L.** and Fan, W.#, (2020). Combined Latent Class and Partial Proportional Odds Model Approach to Exploring the Heterogeneities in Truck-Involved Severities at Cross and T-Intersections, Accident Analysis and Prevention,Volume 144, 105638, September 2020. (SCI , If:3.7, Q1)
 
 **2019**
