@@ -14,6 +14,7 @@ Including conference of hosting, oral presentation, poster, and attendance only.
 1. Wang, X., **Song, L.**, Wu, P. (2018, Sep.). A novel method of island port‘s transport: automatic guided vehicle approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE). Singapore. (**Honor: Excellent Oral Presentation**)
 
 **Poster:**<br>
+1. **Song, L.**, Fan, w., Li, Y., and Wu, P. (2020). Exploring pedestrian injury severities at pedestrian vehicle crash hotspots with an annual upward trend: a spatiotemporal analysis with latent class random parameter approach. North Carolina Department of Transportation Research & Innovation Summit – 2020. NC. United States.
 1. Wang, X., **Song, L.**, Wu, P., (2020). Research on Container Transportation’s Discrete Choose Model Considering Carbon Tax. In 2020 Transportation Research Board 99th Annual Meeting. Washington DC, United States.
 1. Wang, X., **Song, L.**, Wu, P., Yu, S. (2019). Analysis of unconventional design for signalized and closely-spaced T-intersections. In 2019 19th COTA conference International Conference of Transportation Professionals (CICTP2019). Nanjing, China.
 1. Wang, X., **Song, L.**, Wu, Z., & Wu, P. (2019). Development of a Traffic Noise Prediction Model Based on Equivalent Sound Source at the Road Shoulder. In 2019 Transportation Research Board 98th Annual Meeting.  Washington DC, United States.
