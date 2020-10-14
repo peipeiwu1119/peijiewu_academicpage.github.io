@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Website of Li Song"
+title                    : "Homepage_Li Song"
 title_separator          : "-"
 name                     : &name "Li Song"
 description              : &description "University of North Carolina at Charlotte"
