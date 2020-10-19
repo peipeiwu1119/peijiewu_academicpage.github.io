@@ -5,5 +5,7 @@ CAV Impacts on Traffic Intersection Capacity and Transportation Revenue
  <br/>"
 collection: portfolio
 ---
+Investigators,	Title of Grant,	Funding Agency,	Grant Total (Fan’s share),	Grant Period:
+1.	Ali Karimoddini, **Wei Fan**，Thomas Chase，Abdollah Homaifar,	NC Transportation Center of Excellence in Connected and Autonomous Vehicle Technology (NC-CAV),	NCDOT,	$1,000,000
+($124,547),	05/01/20-07/31/22.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
