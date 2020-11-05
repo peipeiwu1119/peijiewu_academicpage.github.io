@@ -11,7 +11,7 @@ Including conference of hosting, oral presentation, poster, and attendance only.
 **Hosting:** <br>
 
 **Presentation:** <br>
-1.  **Song, L.**, (2020, Nov.). Exploring pedestrian injury severities at pedestrian-vehicle crash hotspots with an annual upward trend: a spatiotemporal analysis with latent class random parameter approach. In 2020 3rd CAMMSE Research Symposium. Onlini. (**Student lightning talks**)
+1.  **Song, L.**, (2020, Nov.). Exploring pedestrian injury severities at pedestrian-vehicle crash hotspots with an annual upward trend: a spatiotemporal analysis with latent class random parameter approach. In 2020 3rd CAMMSE Research Symposium. Online. (**Student lightning talks**)
 1. Wang, X., **Song, L.**, Wu, P. (2018, Sep.). A novel method of island port‘s transport: automatic guided vehicle approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE). Singapore. (**Honor: Excellent Oral Presentation**)
 
 **Poster:**<br>
