@@ -11,14 +11,14 @@ permalink: /Research Interest/
 # RESEARCH INTEREST
 -----
 ## Connected and Autonomous Vehicles: 
-Intellegent vehicle technologies; Optimal and control method; Simmulation and impacts analysis. 
+Intelligent vehicle technologies; Optimal and control method; Simulation and impacts analysis.
 
 ## Big Data Analytics & Statistics:
-Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence.<br>
-I am also higly interested in the developing data mining technology.
+Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence.
+I am also highly interested in the developing data mining technology.
 
 ## Future Transportation Systems: 
-I am highly interested in technology which could change the furture of the transportation. Including but not limited to: Intellegent tranport control; Sharing mobility; Smart parking; Congestion mitigation.<br>
+I am highly interested in technology which could change the future of the transportation. Including but not limited to: Intelligent transport control; Sharing mobility; Smart parking; Congestion mitigation.<br>
 
 
 # METHODOLOGY
