@@ -9,6 +9,7 @@ location: "International"
 ---
 Including conference of hosting, oral presentation, poster, and attendance only.<br>
 **Hosting:** <br>
+1. **Song, L.**, (2020, Nov.). Multimodal Session. NCSITE Annual Meeting.
 
 **Presentation:** <br>
 1.  **Song, L.**, (2020, Nov.). Exploring pedestrian injury severities at pedestrian-vehicle crash hotspots with an annual upward trend: a spatiotemporal analysis with latent class random parameter approach. In 2020 3rd CAMMSE Research Symposium. Online. (**Student lightning talks**)
