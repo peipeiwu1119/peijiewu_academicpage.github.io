@@ -13,7 +13,6 @@ The [googlewebsite](https://sites.google.com/view/lisong2019/home) also be helpf
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 **2020**  <br>
 1.  Wu, P., Meng, X.#, & **Song, L.**, Bayesian space-time modeling of bicycle and pedestrian crash risk by injury severity levels on a macroscopic scale to explore the long-term spatiotemporal effects. <i>Accident Analysis and Prevention</i> (under review)
-1. Li, Y., **Song, L.** & Fan, W.# Day-of-week variations and the temporal instability of factors influencing pedestrian injury severity in pedestrian-vehicle crashes: a random parameters logit approach with heterogeneity in means and variances. <i>Analytic Methods in Accident Research</i> (under review)
 1. Wu, P., Meng, X.#, & **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
 1. **Song, L.**,  Fan, W.# and Liu, P., Exploring the effects of connected and automated vehicles at fixed and actuated signalized intersections with different market penetration rates, <i>Journal of Transportation Research Record</i> (under review)
 1. **Song, L.**, Li, Y., Fan, W.# and Liu, P., Mixed Logit Approach to Analyzing Pedestrian Injury Severity in Pedestrian-Vehicle Crashes in North Carolina: Considering Time of Day and Day of Week, <i>Traffic Injury Prevention</i> (under review)
@@ -26,6 +25,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 **2020**  <br>
 1. **Song, L.**, Li, Y., Fan, W. D., & Wu, P. (2020). Modeling pedestrian-injury severities in pedestrian-vehicle crashes considering spatiotemporal patterns: insights from different hierarchical Bayesian random-effects models. <i>Analytic Methods in Accident Research</i>, 100137.(**SCI , Q1, IF:9.1, Ranked 1st in Transportation Journals**)
+1. Li, Y., **Song, L.** & Fan, W.# (2020). Day-of-week variations and the temporal instability of factors influencing pedestrian injury severity in pedestrian-vehicle crashes: a random parameters logit approach with heterogeneity in means and variances. <i>Analytic Methods in Accident Research</i>, 100152. (**SCI , Q1, IF:9.1 **)
 1. **Song, L.** and Fan, W.#, (2020). Combined Latent Class and Partial Proportional Odds Model Approach to Exploring the Heterogeneities in Truck-Involved Severities at Cross and T-Intersections, <i>Accident Analysis and Prevention</i>,Volume 144, 105638, September 2020. (**SCI , If:3.7, Q1**)
 
 **2019**
