@@ -12,12 +12,10 @@ The [googlewebsite](https://sites.google.com/view/lisong2019/home) also be helpf
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 **2020**  <br>
-1.  Wu, P., Meng, X.#, & **Song, L.**, Bayesian space-time modeling of bicycle and pedestrian crash risk by injury severity levels on a macroscopic scale to explore the long-term spatiotemporal effects. <i>Accident Analysis and Prevention</i> (under review)
+1. Wu, P., Meng, X.#, & **Song, L.**, Bayesian space-time modeling of bicycle and pedestrian crash risk by injury severity levels on a macroscopic scale to explore the long-term spatiotemporal effects. <i>Accident Analysis and Prevention</i> (under review)
 1. Wu, P., Meng, X.#, & **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
 1. **Song, L.**,  Fan, W.# and Liu, P., Exploring the effects of connected and automated vehicles at fixed and actuated signalized intersections with different market penetration rates, <i>Journal of Transportation Research Record</i> (under review)
 1. **Song, L.**, Li, Y., Fan, W.# and Liu, P., Mixed Logit Approach to Analyzing Pedestrian Injury Severity in Pedestrian-Vehicle Crashes in North Carolina: Considering Time of Day and Day of Week, <i>Traffic Injury Prevention</i> (under review)
-1. **Song, L.**, Fan, W.#, Li, Y. and Wu, P., Exploring Contributing Factors to Pedestrian Injury Severity in Pedestrian-Vehicle Crashes at Uptrending high-frequency locations: A Spatiotemporal Analysis with Latent Class Clustering and Mixed Logit Approach, <i>Accident Analysis and Prevention</i> (under review)
-1. **Song, L.** and Fan, W.#, Exploring Truck Driver-Injury Severity at Cross- And T-Intersections Based on the Latent Class Analysis and Proportional Odds Models: A Case Study of North Carolina, <i>Journal of safety research</i> (under review) 
 1. Wu, P., Meng, X.#, & **Song, L.** Identification and Spatiotemporal Evolution Analysis of High-Risk Crash Spots in Urban Roads at the Microzone-level: Using the Space-Time Cube Method to Deeply Mining Crash Data, <i>Journal of safety research</i> (under review) 
 
 **Publication:**  Total: 12 ；SCI: 9； EI: 3 ；Others: 0
