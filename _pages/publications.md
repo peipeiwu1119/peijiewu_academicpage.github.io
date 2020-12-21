@@ -18,9 +18,9 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 1. **Song, L.**, Li, Y., Fan, W.# and Liu, P., Mixed Logit Approach to Analyzing Pedestrian Injury Severity in Pedestrian-Vehicle Crashes in North Carolina: Considering Time of Day and Day of Week, <i>Traffic Injury Prevention</i> (under review)
 1. Wu, P., Meng, X.#, & **Song, L.** Identification and Spatiotemporal Evolution Analysis of High-Risk Crash Spots in Urban Roads at the Microzone-level: Using the Space-Time Cube Method to Deeply Mining Crash Data, <i>Journal of safety research</i> (under review) 
 
-**Publication:**  Total: 12 ；SCI: 9； EI: 3 ；Others: 0
+**Publication:**  
 ====== 
-_(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
+_**Total: 12 ；SCI: 9； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 **2021**  <br>
 1. **Song, L.**, Fan, W.#, Li, Y. and Wu, P., Exploring Pedestrian Injury Severities at Pedestrian-Vehicle Crash Hotspots with An Annual Upward Trend: A Spatiotemporal Analysis with Latent Class Random Parameter Approach, Accepted for Publication, Journal of Safety Research, December 2020. (**SCI , Q2, IF: 2.86**)
 1. **Song, L.** and Fan, W.#, Exploring Truck Driver-Injury Severity at Intersections Considering Heterogeneity in Latent Classes: A Case Study of North Carolina, Accepted for Publication, International Journal of Transportation Science and Technology, December 2020. (**EI**)
