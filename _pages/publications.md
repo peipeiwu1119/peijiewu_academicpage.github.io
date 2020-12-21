@@ -21,9 +21,11 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 **Publication:**  Total: 12 ；SCI: 9； EI: 3 ；Others: 0
 ====== 
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
-**2020**  <br>
-1. **Song, L.** and Fan, W.#, Exploring Truck Driver-Injury Severity at Intersections Considering Heterogeneity in Latent Classes: A Case Study of North Carolina, Accepted for Publication, International Journal of Transportation Science and Technology, December 2020. (**EI**)
+**2021**  <br>
 1. **Song, L.**, Fan, W.#, Li, Y. and Wu, P., Exploring Pedestrian Injury Severities at Pedestrian-Vehicle Crash Hotspots with An Annual Upward Trend: A Spatiotemporal Analysis with Latent Class Random Parameter Approach, Accepted for Publication, Journal of Safety Research, December 2020. (**SCI , Q2, IF: 2.86**)
+1. **Song, L.** and Fan, W.#, Exploring Truck Driver-Injury Severity at Intersections Considering Heterogeneity in Latent Classes: A Case Study of North Carolina, Accepted for Publication, International Journal of Transportation Science and Technology, December 2020. (**EI**)
+
+**2020**  <br>
 1. **Song, L.**, Li, Y., Fan, W. D., & Wu, P. (2020). Modeling pedestrian-injury severities in pedestrian-vehicle crashes considering spatiotemporal patterns: insights from different hierarchical Bayesian random-effects models. <i>Analytic Methods in Accident Research</i>, 100137.(**SCI , Q1, IF:9.1, Ranked 1st in Transportation Journals**)
 1. Li, Y., **Song, L.** & Fan, W.# (2020). Day-of-week variations and the temporal instability of factors influencing pedestrian injury severity in pedestrian-vehicle crashes: a random parameters logit approach with heterogeneity in means and variances. <i>Analytic Methods in Accident Research</i>, 100152. (**SCI, IF:9.1, Q1**)
 1. **Song, L.** and Fan, W.#, (2020). Combined Latent Class and Partial Proportional Odds Model Approach to Exploring the Heterogeneities in Truck-Involved Severities at Cross and T-Intersections, <i>Accident Analysis and Prevention</i>,Volume 144, 105638, September 2020. (**SCI , If:3.7, Q1**)
