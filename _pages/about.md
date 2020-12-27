@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Li Song is a Ph.D. candidate major in Transportation at the University of North Carolina at Charlotte. Currently, I focus on analyzing the influence of intelligent vehicles on transportation systems and exploring the transportation big data with statistics and emerging technology. In respect of methodology, research on intelligent vehicle technologies mainly includes control strategy, simulation, and optimization. Research on data analysis mainly includes statistics and machine learning approaches. Meanwhile, I am also interested in emergence technology which could change the future transportation systems.
-<br>
+Li Song is a Ph.D. candidate major in Transportation at the University of North Carolina at Charlotte. Currently, I focus on analyzing the influence of intelligent vehicles on transportation systems and exploring the transportation big data with statistics and emerging technology. In respect of methodology, research on intelligent vehicle technologies mainly includes control strategy, simulation, and optimization. Research on data analysis mainly includes statistics and machine learning approaches. Meanwhile, I am also interested in emergence technology which could change the future transportation systems.<br>
+
 <i> <b> Fllow your heart, and making great as a daily part of your life </b> </i>
 
 Contact Information:
