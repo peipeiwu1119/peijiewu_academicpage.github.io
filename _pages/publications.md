@@ -12,6 +12,7 @@ The [googlewebsite](https://sites.google.com/view/lisong2019/home) also be helpf
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 **2020**  <br>
+1. Wu, P., & **Song, L.**, Meng, X.#, Influence of built environment and roadway characteristics on the frequency of vehicle crashes caused by inattention: a comparison between rural roads and urban roads. <i>Accident Analysis and Prevention</i> (under review)
 1. Wu, P., Meng, X.#, & **Song, L.**, Bayesian space-time modeling of bicycle and pedestrian crash risk by injury severity levels on a macroscopic scale to explore the long-term spatiotemporal effects. <i>Accident Analysis and Prevention</i> (under review)
 1. Wu, P., Meng, X.#, & **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
 1. **Song, L.**,  Fan, W.# and Liu, P., Exploring the effects of connected and automated vehicles at fixed and actuated signalized intersections with different market penetration rates, <i>Journal of Transportation Research Record</i> (under review)
