@@ -11,9 +11,11 @@ Including conference of hosting, oral presentation, poster, and attendance only.
 **Hosting:** <br>
 1. **Song, L.**, (2020, Nov.). Multimodal Session. NCSITE Annual Meeting.
 
-**Presentation:** <br>
-1.  **Song, L.**, (2020, Nov.). Exploring pedestrian injury severities at pedestrian-vehicle crash hotspots with an annual upward trend: a spatiotemporal analysis with latent class random parameter approach. In 2020 3rd CAMMSE Research Symposium. Online. (**Student lightning talks**)
-1. Wang, X., **Song, L.**, Wu, P. (2018, Sep.). A novel method of island port‘s transport: automatic guided vehicle approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE). Singapore. (**Honor: Excellent Oral Presentation**)
+**Oral Presentation:** <br>
+1.  **Song, L.**, (2021, April.).Impacts of CAVs on transfer-based DQN controlled signal intersection: insights from mixed traffic and information levels. CEE Grad Student Symposium Submission 2021. 
+2.  **Song, L.**, (2021, Mar.).Time-of-day variations and the temporal instability of multi-vehicle crash injury severities under the influence of alcohol or drugs: insights from the economic cycle after the Great Recession. 2021 COTA Research Lightning Talk.
+3.  **Song, L.**, (2020, Nov.). Exploring pedestrian injury severities at pedestrian-vehicle crash hotspots with an annual upward trend: a spatiotemporal analysis with latent class random parameter approach. In 2020 3rd CAMMSE Research Symposium. Online. (**Student lightning talks**)
+4. Wang, X., **Song, L.**, Wu, P. (2018, Sep.). A novel method of island port‘s transport: automatic guided vehicle approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE). Singapore. (**Honor: Excellent Oral Presentation**)
 
 **Poster:**<br>
 1. **Song, L.**, Fan, W.,  (2021). Title: Exploring the effects of connected and automated vehicles at fixed and actuated signalized intersections with different market penetration rates. In 2021 Transportation Research Board 100th Annual Meeting. Presentation Number: TRBAM-21-00365.
