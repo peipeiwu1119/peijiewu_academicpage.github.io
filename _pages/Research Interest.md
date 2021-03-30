@@ -27,8 +27,7 @@ permalink: /Research Interest/
 			  <div class="container">Connected and Autonomous Vehicle</div>
 			</div>
 		      </td>
-		      <td><strong>Connected and Autonomous Vehicle
-			      </td>
+		      <td>Connected and Autonomous Vehicle</td>
 		      <td>Intelligent vehicle technologies; Optimal and control method; Simulation and impacts analysis<br>
 			       <!-- <p class="infolinks"> [<a href="javascript:toggleInfo('interest1','abstract')">Abstract</a>]
 				 [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] 
