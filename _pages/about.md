@@ -47,5 +47,5 @@ GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
 
 Vistors
 ------
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5xudi87gfgs&amp;m=0&amp;c=00fff6&amp;cr1=ff0000&amp;br=5&amp;lo=84&amp;oo=51&amp;sx=0" async="async"></script>
-
+<！--<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5xudi87gfgs&amp;m=0&amp;c=00fff6&amp;cr1=ff0000&amp;br=5&amp;lo=84&amp;oo=51&amp;sx=0" async="async"></script>-->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=7af6ec&w=a&t=tt&d=A_MFnXG1cd5Ja-UHFqbpPt-pyzARX2TcNwZIP_26HIk&co=ffffff&cmo=75ff53&cmn=f3461a&ct=050000'></script>
