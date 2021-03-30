@@ -66,7 +66,7 @@ permalink: /Research Interest/
     </thead>
 	<tbody>
 	    <tr id="m1" class="entry">
-		<td><strong>In Developing</td>
+		<td>In Developing</td>
 	      <td>Car follwing model for intellegent vehicles.
 		<!-- 
 		<div class="polaroid">
@@ -79,24 +79,24 @@ permalink: /Research Interest/
 		<td><strong>paper1, paper2</td>
 	</tr>
 	<tr id="m2" class="entry">
-		<td><strong>In Developing</td>
+		<td>In Developing</td>
 		<td>Car pltooning technology for intelligent vehilces </td>
-		<td><strong>paper1, paper2</td>
+		<td>paper1, paper2</td>
 	</tr>
 	<tr id="m3" class="entry">
-		<td><strong>In Developing</td>
+		<td>In Developing</td>
 		<td>Random parameter discrete model </td>
-		<td><strong>paper1, paper2</td>
+		<td>paper1, paper2</td>
 	</tr>
 	<tr id="m4" class="entry">
-		<td><strong>Developed</td>
+		<td>Developed</td>
 		<td>Discrete choice model: logit model (MNL, MXL; OL, PPO) </td>
-		<td><strong>Clustering: Latent class analysis/clustering</td>
+		<td>Clustering: Latent class analysis/clustering</td>
 	</tr>
 	<tr id="m5" class="entry">
-		<td><strong>Developed</td>
+		<td>Developed</td>
 		<td>Spatiotemporal analysis: Spatiotemporal cube analysis </td>
-		<td><strong>paper1, paper2</td>
+		<td>paper1, paper2</td>
 	</tr>
 	</tbody>
 </table>        
