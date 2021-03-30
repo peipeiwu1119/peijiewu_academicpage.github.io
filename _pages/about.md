@@ -50,3 +50,4 @@ Vistors
 <!--<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5xudi87gfgs&amp;m=0&amp;c=00fff6&amp;cr1=ff0000&amp;br=5&amp;lo=84&amp;oo=51&amp;sx=0" async="async">
  -->
  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=A_MFnXG1cd5Ja-UHFqbpPt-pyzARX2TcNwZIP_26HIk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+ <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=A_MFnXG1cd5Ja-UHFqbpPt-pyzARX2TcNwZIP_26HIk"></script>
