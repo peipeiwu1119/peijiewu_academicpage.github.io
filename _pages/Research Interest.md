@@ -60,7 +60,7 @@ I am highly interested in technology which could change the future of the transp
       
 
 
-# METHODOLOGY
+# 
 -----
 ## In Developing
 1. Car follwing model for intellegent vehicles.
@@ -77,4 +77,27 @@ I am highly interested in technology which could change the future of the transp
 ### Connected and autonomous vehicle: 
 1. Car following model: IDM, ACC, CACC
 
+## METHODOLOGY
 
+<table style="width:100%">
+    <thead>
+		<tr>
+			<th width="25%">Statement</th>
+			<th width="25%">Topic</th>
+			<th width="50%">Detail</th>
+		</tr>
+    </thead>
+	<tbody>
+    <tr id="m1" class="entry">
+	<td><strong>In Developing</td>
+      <td>Car follwing model for intellegent vehicles.
+        <!-- 
+        <div class="polaroid">
+          <img src="../images/transportation_300_500.png" width="600" class="research_img">
+          <div class="container">
+          Connected and Autonomous Vehicle
+          </div> 
+        </div>-->
+      </td>
+	<td><strong>paper1, paper2</td>
+      
