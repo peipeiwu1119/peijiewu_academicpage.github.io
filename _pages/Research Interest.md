@@ -42,10 +42,11 @@ permalink: /Research Interest/
 	I am also highly interested in the developing data mining technology.
 		</td>
 	</tr>
-	<tr id=interest3" class="entry">
-		<td><strong>In Developing</td>
-		<td>Future Transportation Systems </td>
-		<td><strong>I am highly interested in technology which could change the future of the transportation. Including but not limited to: Intelligent transport control; Sharing mobility; Smart parking; Congestion mitigation.</td>
+	<tr id="interest2" class="entry">
+		<td><strong> pictures </td>
+		<td> Future Transportation Systems </td>
+		<td>I am highly interested in technology which could change the future of the transportation. Including but not limited to: Intelligent transport control; Sharing mobility; Smart parking; Congestion mitigation..
+		</td>
 	</tr>
 </tbody>
 </table>      
@@ -90,7 +91,7 @@ permalink: /Research Interest/
       	<td>Discrete choice model: logit model (MNL, MXL; OL, PPO) </td>
 	<td><strong>Clustering: Latent class analysis/clustering</td>
 </tr>
-<tr id="m4" class="entry">
+<tr id="m5" class="entry">
 	<td><strong>Developed</td>
       	<td>Spatiotemporal analysis: Spatiotemporal cube analysis </td>
 	<td><strong>paper1, paper2</td>
