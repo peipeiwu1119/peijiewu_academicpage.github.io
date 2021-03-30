@@ -59,26 +59,7 @@ I am highly interested in technology which could change the future of the transp
         </tr>
       
 
-
-# 
------
-## In Developing
-1. Car follwing model for intellegent vehicles.
-1. Car pltooning technology for intelligent vehilces.
-1. Random parameter discrete model 
-
-## Developed
-### Data analysis:
-1. Discrete choice model: logit model (MNL, MXL; OL, PPO)
-1. Clustering: Latent class analysis/clustering, 
-1. Spatiotemporal analysis: Spatiotemporal cube analysis.
-1. Temporal viration: ARIMA, Wavelet analysis,
-
-### Connected and autonomous vehicle: 
-1. Car following model: IDM, ACC, CACC
-
 ## METHODOLOGY
-
 <table style="width:100%">
     <thead>
 		<tr>
@@ -100,4 +81,26 @@ I am highly interested in technology which could change the future of the transp
         </div>-->
       </td>
 	<td><strong>paper1, paper2</td>
+</tr>
+<tr id="m2" class="entry">
+	<td><strong>In Developing</td>
+      	<td>Car pltooning technology for intelligent vehilces </td>
+	<td><strong>paper1, paper2</td>
+</tr>
+<tr id="m3" class="entry">
+	<td><strong>In Developing</td>
+      	<td>Random parameter discrete model </td>
+	<td><strong>paper1, paper2</td>
+</tr>
+<tr id="m4" class="entry">
+	<td><strong>Developed</td>
+      	<td>Discrete choice model: logit model (MNL, MXL; OL, PPO) </td>
+	<td><strong>Clustering: Latent class analysis/clustering</td>
+</tr>
+<tr id="m4" class="entry">
+	<td><strong>Developed</td>
+      	<td>Spatiotemporal analysis: Spatiotemporal cube analysis </td>
+	<td><strong>paper1, paper2</td>
+</tr>
+		
       
