@@ -15,7 +15,7 @@ body {
 # RESEARCH INTEREST
 -----
 
-<table style="width:100%">
+<table style="width:100%;font-size:14px;">
     <thead>
 	<tr>
 		<th width="25%">Highlight</th>
