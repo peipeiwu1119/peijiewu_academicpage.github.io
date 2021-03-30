@@ -59,8 +59,8 @@ permalink: /Research Interest/
     <thead>
 		<tr>
 			<th width="25%">Statement</th>
-			<th width="25%">Topic</th>
-			<th width="50%">Detail</th>
+			<th width="50%">Topic</th>
+			<th width="25%">Detail</th>
 		</tr>
     </thead>
 	<tbody>
