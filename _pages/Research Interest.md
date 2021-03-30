@@ -15,7 +15,7 @@ body {
 # RESEARCH INTEREST
 -----
 
-<table style="width:100%; font-size:14px;">
+<table style="width:100%; font-size:18px;">
     <thead>
 	<tr>
 		<th width="25%">Highlight</th>
@@ -59,7 +59,7 @@ body {
 
 # METHODOLOGY
 -----
-<table style="width:100%; font-size:28px;">
+<table style="width:100%; font-size:18px;">
     <thead>
 		<tr>
 			<th width="25%">Statement</th>
