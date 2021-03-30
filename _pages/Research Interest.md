@@ -13,11 +13,11 @@ permalink: /Research Interest/
 
 <table style="width:100%">
     <thead>
-		<tr>
-			<th width="25%">Highlight</th>
-			<th width="25%">Topic</th>
-			<th width="50%">Detail</th>
-		</tr>
+	<tr>
+		<th width="25%">Highlight</th>
+		<th width="25%">Topic</th>
+		<th width="50%">Detail</th>
+	</tr>
     </thead>
 <tbody>
 	<tr id="interest1" class="entry">
@@ -50,7 +50,7 @@ permalink: /Research Interest/
 </tbody>
 </table>      
 
-
+-----
 # METHODOLOGY
 -----
 <table style="width:100%">
