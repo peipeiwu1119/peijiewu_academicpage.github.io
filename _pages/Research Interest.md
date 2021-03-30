@@ -33,9 +33,9 @@ permalink: /Research Interest/
                   [<a href="http://tps.uwstarlab.org/">Website</a>]--></p>
        </td>
 </tr>
-        <tr id="abs_interest1" class="abstract noshow">
+<tr id="abs_interest1" class="abstract noshow">
           <td colspan="5"><div align="justify"> <b>Abstract</b>: Deep Reinforcement Learning controlled intersection signal system.</div></td>
-        </tr>
+</tr>
 		
 <tr id="interest2" class="entry">
 	<td><strong> pictures </td>
