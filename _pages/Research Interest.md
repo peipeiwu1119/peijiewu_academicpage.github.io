@@ -20,42 +20,39 @@ permalink: /Research Interest/
 		</tr>
     </thead>
 <tbody>
-<tr id="interest1" class="entry">
-      <td>
-        <div class="polaroid">
-          <img src="../images/transportation_300_500.png" width="600" class="research_img">
-          <div class="container">Connected and Autonomous Vehicle</div>
-        </div>
-      </td>
-      <td><strong>Connected and Autonomous Vehicle</td>
-      <td>Intelligent vehicle technologies; Optimal and control method; Simulation and impacts analysis<br>
-              <p class="infolinks"> [<a href="javascript:toggleInfo('interest1','abstract')">Abstract</a>]
-                  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] 
-                  [<a href="http://tps.uwstarlab.org/">Website</a>]-->
-	      </p>
-       </td>
-</tr>
-
-		
-<tr id="interest2" class="entry">
-	<td><strong> pictures </td>
-      	<td> Big Data Analytics & Statistics </td>
-	<td><strong>Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence.
-I am also highly interested in the developing data mining technology.</td>
-</tr>
-		
-<tr id=interest3" class="entry">
-	<td><strong>In Developing</td>
-      	<td>Future Transportation Systems </td>
-	<td><strong>I am highly interested in technology which could change the future of the transportation. Including but not limited to: Intelligent transport control; Sharing mobility; Smart parking; Congestion mitigation.</td>
-</tr>
+	<tr id="interest1" class="entry">
+	      <td>
+		<div class="polaroid">
+		  <img src="../images/transportation_300_500.png" width="600" class="research_img">
+		  <div class="container">Connected and Autonomous Vehicle</div>
+		</div>
+	      </td>
+	      <td><strong>Connected and Autonomous Vehicle</td>
+	      <td>Intelligent vehicle technologies; Optimal and control method; Simulation and impacts analysis<br>
+		      <p class="infolinks"> [<a href="javascript:toggleInfo('interest1','abstract')">Abstract</a>]
+			  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] 
+			  [<a href="http://tps.uwstarlab.org/">Website</a>]-->
+		      </p>
+	       </td>
+	</tr>
+	<tr id="interest2" class="entry">
+		<td><strong> pictures </td>
+		<td> Big Data Analytics & Statistics </td>
+		<td><strong>Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence.
+	I am also highly interested in the developing data mining technology.
+		</td>
+	</tr>
+	<tr id=interest3" class="entry">
+		<td><strong>In Developing</td>
+		<td>Future Transportation Systems </td>
+		<td><strong>I am highly interested in technology which could change the future of the transportation. Including but not limited to: Intelligent transport control; Sharing mobility; Smart parking; Congestion mitigation.</td>
+	</tr>
 </tbody>
 </table>      
 
 
 # METHODOLOGY
 -----
-
 <table style="width:100%">
     <thead>
 		<tr>
@@ -64,7 +61,7 @@ I am also highly interested in the developing data mining technology.</td>
 			<th width="50%">Detail</th>
 		</tr>
     </thead>
-	<tbody>
+<tbody>
     <tr id="m1" class="entry">
 	<td><strong>In Developing</td>
       <td>Car follwing model for intellegent vehicles.
@@ -98,6 +95,5 @@ I am also highly interested in the developing data mining technology.</td>
       	<td>Spatiotemporal analysis: Spatiotemporal cube analysis </td>
 	<td><strong>paper1, paper2</td>
 </tr>
-	</tbody>
-</table>		
-      
+</tbody>
+</table>        
