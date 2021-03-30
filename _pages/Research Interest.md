@@ -27,7 +27,8 @@ permalink: /Research Interest/
 			  <div class="container">Connected and Autonomous Vehicle</div>
 			</div>
 		      </td>
-		      <td><strong>Connected and Autonomous Vehicle</td>
+		      <td><strong>Connected and Autonomous Vehicle
+			      </td>
 		      <td>Intelligent vehicle technologies; Optimal and control method; Simulation and impacts analysis<br>
 			       <!-- <p class="infolinks"> [<a href="javascript:toggleInfo('interest1','abstract')">Abstract</a>]
 				 [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] 
@@ -36,14 +37,15 @@ permalink: /Research Interest/
 		       </td>
 		</tr>
 		<tr id="interest2" class="entry">
-			<td><strong> pictures </td>
+			<td> pictures </td>
 			<td> Big Data Analytics & Statistics </td>
-			<td><strong>Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence.
+			<td>Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence.
 		I am also highly interested in the developing data mining technology.
 			</td>
 		</tr>
 		<tr id="interest2" class="entry">
-			<td><strong> pictures </td>
+			<td><pictures 
+				</td>
 			<td> Future Transportation Systems </td>
 			<td>I am highly interested in technology which could change the future of the transportation. Including but not limited to: Intelligent transport control; Sharing mobility; Smart parking; Congestion mitigation..
 			</td>
