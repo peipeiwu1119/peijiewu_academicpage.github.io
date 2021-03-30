@@ -8,8 +8,9 @@ permalink: /Research Interest/
 <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="50%" height="50%">
 <!--![image](https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png)-->
 
-## RESEARCH INTEREST
+# RESEARCH INTEREST
 -----
+
 <table style="width:100%">
     <thead>
 		<tr>
@@ -28,9 +29,10 @@ permalink: /Research Interest/
       </td>
       <td><strong>Connected and Autonomous Vehicle</td>
       <td>Intelligent vehicle technologies; Optimal and control method; Simulation and impacts analysis<br>
-                <p class="infolinks"> [<a href="javascript:toggleInfo('interest1','abstract')">Abstract</a>]
+              <p class="infolinks"> [<a href="javascript:toggleInfo('interest1','abstract')">Abstract</a>]
                   <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] 
-                  [<a href="http://tps.uwstarlab.org/">Website</a>]--></p>
+                  [<a href="http://tps.uwstarlab.org/">Website</a>]-->
+	      </p>
        </td>
 </tr>
 <tr id="abs_interest1" class="abstract noshow">
@@ -53,8 +55,9 @@ I am also highly interested in the developing data mining technology.</td>
 </table>      
 
 
-## METHODOLOGY
+# METHODOLOGY
 -----
+
 <table style="width:100%">
     <thead>
 		<tr>
