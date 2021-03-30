@@ -16,4 +16,4 @@ Contact Information:
 1. WeChat: `sl345536290`
 1. Phone: `979-318-0375 `
 
-<embed src="https://github.com/lisong2019/lisong.github.io/blob/master/files/Li-SONG-CV-%202.pdf" type="application/pdf" height="330px"/>
+<embed src="https://github.com/lisong2019/lisong.github.io/files/Li-SONG-CV-uncc20210212.pdf" type="application/pdf" height="330px"/>
