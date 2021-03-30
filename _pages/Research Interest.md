@@ -3,6 +3,10 @@ title: "Research Interest"
 layout: archive
 permalink: /Research Interest/
 ---
+body {
+    font: normal 10px Verdana, Arial, sans-serif;
+}
+
 # Research Aim:
 
 <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="50%" height="50%">
