@@ -20,7 +20,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 
 **Publication:**  
 ====== 
-_**Total: 12 ；SCI: 9； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
+_**Total: 13 ；SCI: 10； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 
 1. **Song, L.**, Li, Y., Fan, W.# and Liu, P., Mixed Logit Approach to Analyzing Pedestrian Injury Severity in Pedestrian-Vehicle Crashes in North Carolina: Considering Time of Day and Day of Week, <i>Traffic Injury Prevention</i>. (**SCI , Q4**)
 1. **Song, L.**, Fan, W.#, Li, Y. and Wu, P., (2021). Exploring Pedestrian Injury Severities at Pedestrian-Vehicle Crash Hotspots with An Annual Upward Trend: A Spatiotemporal Analysis with Latent Class Random Parameter Approach, Accepted for Publication, Journal of Safety Research. (**SCI , Q2, IF: 2.86**)
