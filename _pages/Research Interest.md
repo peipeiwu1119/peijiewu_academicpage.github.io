@@ -8,21 +8,8 @@ permalink: /Research Interest/
 <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="50%" height="50%">
 <!--![image](https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png)-->
 
-# RESEARCH INTEREST
------
-## Connected and Autonomous Vehicles: 
-Intelligent vehicle technologies; Optimal and control method; Simulation and impacts analysis.
-
-##:
-Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence.
-I am also highly interested in the developing data mining technology.
-
-## Future Transportation Systems: 
-I am highly interested in technology which could change the future of the transportation. Including but not limited to: Intelligent transport control; Sharing mobility; Smart parking; Congestion mitigation.<br>
-
-
 ## RESEARCH INTEREST
-
+-----
 <table style="width:100%">
     <thead>
 		<tr>
@@ -49,21 +36,25 @@ I am highly interested in technology which could change the future of the transp
         <tr id="abs_interest1" class="abstract noshow">
           <td colspan="5"><div align="justify"> <b>Abstract</b>: Deep Reinforcement Learning controlled intersection signal system.</div></td>
         </tr>
+		
 <tr id="interest2" class="entry">
 	<td><strong> pictures </td>
       	<td> Big Data Analytics & Statistics </td>
-	<td><strong>paper1, paper2</td>
+	<td><strong>Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence.
+I am also highly interested in the developing data mining technology.</td>
 </tr>
+		
 <tr id=interest3" class="entry">
 	<td><strong>In Developing</td>
-      	<td>Random parameter discrete model </td>
-	<td><strong>paper1, paper2</td>
+      	<td>Future Transportation Systems </td>
+	<td><strong>I am highly interested in technology which could change the future of the transportation. Including but not limited to: Intelligent transport control; Sharing mobility; Smart parking; Congestion mitigation.</td>
 </tr>
 	</tbody>
 </table>      
 
-## METHODOLOGY
 
+## METHODOLOGY
+-----
 <table style="width:100%">
     <thead>
 		<tr>
