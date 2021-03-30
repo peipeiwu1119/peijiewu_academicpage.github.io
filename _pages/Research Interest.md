@@ -3,9 +3,6 @@ title: "Research Interest"
 layout: archive
 permalink: /Research Interest/
 ---
-body {
-    font: normal 10px Verdana, Arial, sans-serif;
-}
 
 # Research Aim:
 
@@ -15,7 +12,7 @@ body {
 # RESEARCH INTEREST
 -----
 
-<table style="width:100%; font-size:18px;">
+<table style="width:100%; font-size:16px;">
     <thead>
 	<tr>
 		<th width="25%">Highlight</th>
@@ -59,7 +56,7 @@ body {
 
 # METHODOLOGY
 -----
-<table style="width:100%; font-size:18px;">
+<table style="width:100%; font-size:16px;">
     <thead>
 		<tr>
 			<th width="25%">Statement</th>
