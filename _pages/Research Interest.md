@@ -19,7 +19,7 @@ permalink: /Research Interest/
 			<th width="50%">Detail</th>
 		</tr>
     </thead>
-	<tbody>
+<tbody>
 <tr id="interest1" class="entry">
       <td>
         <div class="polaroid">
@@ -35,9 +35,7 @@ permalink: /Research Interest/
 	      </p>
        </td>
 </tr>
-<tr id="abs_interest1" class="abstract noshow">
-          <td colspan="5"><div align="justify"> <b>Abstract</b>: Deep Reinforcement Learning controlled intersection signal system.</div></td>
-</tr>
+
 		
 <tr id="interest2" class="entry">
 	<td><strong> pictures </td>
@@ -51,7 +49,7 @@ I am also highly interested in the developing data mining technology.</td>
       	<td>Future Transportation Systems </td>
 	<td><strong>I am highly interested in technology which could change the future of the transportation. Including but not limited to: Intelligent transport control; Sharing mobility; Smart parking; Congestion mitigation.</td>
 </tr>
-	</tbody>
+</tbody>
 </table>      
 
 
