@@ -75,7 +75,7 @@ permalink: /Research Interest/
 		  </div> 
 		</div>-->
 	      </td>
-		<td><strong>paper1, paper2</td>
+		<td>paper1, paper2</td>
 	</tr>
 	<tr id="m2" class="entry">
 		<td>In Developing</td>
