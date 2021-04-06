@@ -8,7 +8,7 @@ More info about Li Song can be found in [Research Gate](https://www.researchgate
 The [googlewebsite](https://sites.google.com/view/lisong2019/home) also be helpful.
 
 
-**Under Review:**
+<!--**Under Review:**
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 1. **Song, L.**,  Fan, W.# and Li, Y.,Time-of-day variations and the temporal instability of multi-vehicle crash injury severities under the influence of alcohol or drugs: insights from the economic cycle after the Great Recession, <i>Analytic Methods in Accident Research</i> (under review)
@@ -17,6 +17,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 1. Wu, P., Meng, X.#, & **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
 1. **Song, L.**,  Fan, W.# and Liu, P., Exploring the effects of connected and automated vehicles at fixed and actuated signalized intersections with different market penetration rates, <i>Journal of Transportation Research Record</i> (under review)
 1. Wu, P., Meng, X.#, & **Song, L.** Identification and Spatiotemporal Evolution Analysis of High-Risk Crash Spots in Urban Roads at the Microzone-level: Using the Space-Time Cube Method to Deeply Mining Crash Data, <i>Journal of safety research</i> (under review) 
+-->
 
 **Publication:**  
 ====== 
