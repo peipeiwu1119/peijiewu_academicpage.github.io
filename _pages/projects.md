@@ -13,8 +13,9 @@ author_profile: true
         <th width="40%">Project Title</th>
         <th width="10%">Advisor</th>
         <th width="10%">Position </th>
-        <th width="15%">Funding </th>
-        <th width="15%">Remarks </th>
+        <th width="10%">Funding </th>
+        <th width="10%">Grant (Share)</th>
+        <th width="10%">Remarks </th>
     </tr>
    </thead>
 <tbody>
@@ -24,6 +25,7 @@ author_profile: true
         <td>Wei Fan </td>
         <td>Research Assistant</td>
         <td>NCDOT </td>
+        <td>$1,000,000 ($124,547) </td>
         <td><a href="https://online.fliphtml5.com/jkjxu/hgpn/?1615675920316#p=14">Spotlight</a></td>
     </tr>
       <tr>
@@ -32,6 +34,7 @@ author_profile: true
         <td>row 2, cell 2</td>
         <td>row 2, cell 2</td>
         <td>row 2, cell 2</td>
+         <td>row 2, cell 2</td>
         <td>row 2, cell 2</td>
     </tr>
         
