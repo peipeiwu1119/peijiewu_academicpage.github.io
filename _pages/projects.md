@@ -35,7 +35,7 @@ author_profile: true
         <td>row 2, cell 2</td>
     </tr>
         
-	</tbody>
+</tbody>
 </table>     
 <!--
 This page is still under developing,
