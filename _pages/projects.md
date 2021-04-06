@@ -9,12 +9,12 @@ author_profile: true
 <table style="width:100%; font-size:16px;">
    <thead>
     <tr>
-        <th>Period</th>
-        <th>Project Title</th>
-        <th>Advisor</th>
-        <th>Position </th>
-        <th>Funding </th>
-        <th>Remarks </th>
+        <th width="10%">Period</th>
+        <th width="40%">Project Title</th>
+        <th width="10%">Advisor</th>
+        <th width="10%">Position </th>
+        <th width="15%">Funding </th>
+        <th width="15%">Remarks </th>
     </tr>
    </thead>
 <tbody>
