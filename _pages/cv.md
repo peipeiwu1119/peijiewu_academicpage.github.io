@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 
-# HERE IS MY PERSONAL CV:  (UPDATED IN 2020/12)
+# (UPDATED IN 2020/12)
 I would be very glad to discuss about any opportunity for cooperations and jobs.
 
-Contact Information:
+## Contact Information:
 ======
 1. Email Address: a) `lsong1@uncc.edu`; b) `345536290@qq.com`;
 1. WeChat: `sl345536290`
