@@ -13,7 +13,7 @@ More info about Li Song can be found in [Research Gate](https://www.researchgate
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 1. **Song, L.**,  Fan, W.# and Li, Y.,Time-of-day variations and the temporal instability of multi-vehicle crash injury severities under the influence of alcohol or drugs: insights from the economic cycle after the Great Recession, <i>Analytic Methods in Accident Research</i> (under review)
-1. Wu, P., & **Song, L.**, Meng, X.#, Influence of built environment and roadway characteristics on the frequency of vehicle crashes caused by inattention: a comparison between rural roads and urban roads. <i>Accident Analysis and Prevention</i> (under review)
+
 1. Wu, P., Meng, X.#, & **Song, L.**, Bayesian space-time modeling of bicycle and pedestrian crash risk by injury severity levels on a macroscopic scale to explore the long-term spatiotemporal effects. <i>Accident Analysis and Prevention</i> (under review)
 1. Wu, P., Meng, X.#, & **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
 1. Wu, P., Meng, X.#, & **Song, L.** Identification and Spatiotemporal Evolution Analysis of High-Risk Crash Spots in Urban Roads at the Microzone-level: Using the Space-Time Cube Method to Deeply Mining Crash Data, <i>Journal of safety research</i> (under review) 
@@ -22,6 +22,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 **Publication:**  
 ====== 
 _**Total: 14 ；SCI: 11； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
+1. Wu, P., & **Song, L.**, Meng, X.#, Influence of built environment and roadway characteristics on the frequency of vehicle crashes caused by inattention: a comparison between rural roads and urban roads. <i>Journal of Safety Research</i>. (**SCI, Q2, IF: 2.86**)
 1. **Song, L.**,  Fan, W.# and Liu, P., (2021). Exploring the effects of connected and automated vehicles at fixed and actuated signalized intersections with different market penetration rates, <i>Transportation Planning and Technology</i> (**SCI, Q4**)
 2.  **Song, L.**, Li, Y., Fan, W.# and Liu, P., (2021). Mixed Logit Approach to Analyzing Pedestrian Injury Severity in Pedestrian-Vehicle Crashes in North Carolina: Considering Time of Day and Day of Week, <i>Traffic Injury Prevention</i>. (**SCI, Q4**)
 12. **Song, L.**, Fan, W.#, Li, Y. and Wu, P., (2021). Exploring Pedestrian Injury Severities at Pedestrian-Vehicle Crash Hotspots with An Annual Upward Trend: A Spatiotemporal Analysis with Latent Class Random Parameter Approach, <i>Journal of Safety Research</i>, 76, 184-196. (**SCI, Q2, IF: 2.86**)\[[DOI](https://doi.org/10.1016/j.jsr.2020.12.008)\]\[[PDF](https://lisong2019.github.io/lisong.github.io/files/PAPER/Song_2021_JSR.pdf)\]
