@@ -58,17 +58,17 @@ author_profile: true
 2015 “First Prize”, Undergraduate Mathematical Contest In Modeling, Shanghai
 
 ## School Level
-2018 “Excellent Students” (12%, 34)
-2018 “First-Class Scholarship for Postgraduates” (40%, 34)
-2017 “Recommended for Postgraduate Student without Examination” (2%, 4147)
-2017 “Excellent Dissertation of Shanghai Maritime University” (5%, 113)
-2017 “Representative in Academic Atmosphere Construction” (1%,113)
-2016 “School Principal Scholarship” & “Excellent Student” (2%, 113)
-2016 “Excellent Individual in Academic Atmosphere Construction” (1%,113)
-2015 “School Principal Scholarship” & “Excellent students” (2%,113)
-2015 “Third Prize”, SMU Challenge Cup
-2014 “School Second-class Scholarship” & “Triple-A student” (5%, 198)
-2014 “Spiritual Civilization Advanced Student in Community” (1%, 113)
+2018 “Excellent Students” (12%, 34)  
+2018 “First-Class Scholarship for Postgraduates” (40%, 34)  
+2017 “Recommended for Postgraduate Student without Examination” (2%, 4147)  
+2017 “Excellent Dissertation of Shanghai Maritime University” (5%, 113)  
+2017 “Representative in Academic Atmosphere Construction” (1%,113)  
+2016 “School Principal Scholarship” & “Excellent Student” (2%, 113)  
+2016 “Excellent Individual in Academic Atmosphere Construction” (1%,113)  
+2015 “School Principal Scholarship” & “Excellent students” (2%,113)  
+2015 “Third Prize”, SMU Challenge Cup  
+2014 “School Second-class Scholarship” & “Triple-A student” (5%, 198)  
+2014 “Spiritual Civilization Advanced Student in Community” (1%, 113)  
 
 
 <!--
