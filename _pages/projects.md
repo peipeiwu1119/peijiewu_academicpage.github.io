@@ -5,6 +5,7 @@ permalink: /Projects/
 author_profile: true
 ---
 
+# Projects:
 
 <table style="width:100%; font-size:16px;">
    <thead>
