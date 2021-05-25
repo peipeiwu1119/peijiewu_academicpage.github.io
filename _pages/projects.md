@@ -46,8 +46,7 @@ author_profile: true
 
 ## International Level
 2021. "NCSITE Tier III Don Blackburn Memorial Scholarship", NCSITE, USA (1%, 21)  
-2018 “Excellent Oral Presentation”, International Conference of Intelligent Transportation Engineering  
-(ICITE 2018)，Singapore (5%, 116)  
+2018 “Excellent Oral Presentation”, International Conference of Intelligent Transportation Engineering (ICITE 2018)，Singapore (5%, 116)  
 2016 “Honorable Mention”, The Mathematical Contest in Modeling (20%, 37338)  
 
 ## National Level
