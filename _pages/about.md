@@ -44,6 +44,7 @@ GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
 ------
 1. Transportation Research Board (TRB) Annual Meeting 
 1. COTA International Conference for Transportation Professionals 
+2. Cogent Engineering
 
 Vistors
 ------
