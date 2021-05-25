@@ -43,7 +43,33 @@ author_profile: true
 </table>     
 
 # Rewards:
-2021. NCSITE Tier III Don Blackburn Memorial Scholarship, NCSITE.
+
+## International Level
+2021. "NCSITE Tier III Don Blackburn Memorial Scholarship", NCSITE, USA (1%, 21)
+2018 “Excellent Oral Presentation”, International Conference of Intelligent Transportation Engineering
+(ICITE 2018)，Singapore (5%, 116)
+2016 “Honorable Mention”, The Mathematical Contest in Modeling (20%, 37338)
+
+## National Level
+2018 “National Scholarship for Graduate Students”, China (3%, 110)
+2015 “Second Prize”, National Undergraduate Mathematical Contest In Modeling (3.4%, 85955)
+2017 “Outstanding Graduate of Shanghai” (5%, 174000)
+2015 “Shanghai Scholarship” (1%, 113)
+2015 “First Prize”, Undergraduate Mathematical Contest In Modeling, Shanghai
+
+## School Level
+2018 “Excellent Students” (12%, 34)
+2018 “First-Class Scholarship for Postgraduates” (40%, 34)
+2017 “Recommended for Postgraduate Student without Examination” (2%, 4147)
+2017 “Excellent Dissertation of Shanghai Maritime University” (5%, 113)
+2017 “Representative in Academic Atmosphere Construction” (1%,113)
+2016 “School Principal Scholarship” & “Excellent Student” (2%, 113)
+2016 “Excellent Individual in Academic Atmosphere Construction” (1%,113)
+2015 “School Principal Scholarship” & “Excellent students” (2%,113)
+2015 “Third Prize”, SMU Challenge Cup
+2014 “School Second-class Scholarship” & “Triple-A student” (5%, 198)
+2014 “Spiritual Civilization Advanced Student in Community” (1%, 113)
+
 
 <!--
 This page is still under developing,
