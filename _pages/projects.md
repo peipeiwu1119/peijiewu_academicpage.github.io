@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Projects and Rewards"
 permalink: /Projects/
 author_profile: true
 ---
@@ -40,6 +40,10 @@ author_profile: true
         
 </tbody>
 </table>     
+
+# Rewards:
+2021. NCSITE Tier III Don Blackburn Memorial Scholarship, NCSITE.
+
 <!--
 This page is still under developing,
 please neglect the following content
