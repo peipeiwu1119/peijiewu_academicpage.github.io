@@ -20,7 +20,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 
 **Publication:**  
 ====== 
-_**Total: 16 ；SCI: 13； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
+_**Total: 17 ；SCI: 13； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 1. Wu, P., Meng, X.#, & **Song, L.**, Bayesian space-time modeling of bicycle and pedestrian crash risk by injury severity levels on a macroscopic scale to explore the long-term spatiotemporal effects. <i>Physica A: Statistical Mechanics and its Applications</i> 
 1. Wu, P., Meng, X.#, **Song, L.** Identification and Spatiotemporal Evolution Analysis of High-Risk Crash Spots in Urban Roads at the Microzone-level: Using the Space-Time Cube Method to Deeply Mining Crash Data, <i>Journal of Transportation Safety & Security</i> (**SCI, Q4**)
 1. Wu, P., & **Song, L.**, Meng, X.#, Influence of built environment and roadway characteristics on the frequency of vehicle crashes caused by inattention: a comparison between rural roads and urban roads. <i>Journal of Safety Research</i>. (**SCI, Q2, IF: 2.86**)
