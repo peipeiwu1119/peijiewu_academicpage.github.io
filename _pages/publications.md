@@ -21,7 +21,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 **Publication:**  
 ====== 
 _**Total: 17 ；SCI: 14； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
-1. <u>**Song, L.**</u>, Fan, W. and Li, Y., Time-of-day variations and the temporal instability of multi-vehicle crash injury severities under the influence of alcohol or drugs after the Great Recession, Accepted for Publication, <i>Analytic Methods in Accident Research</i>, June 2021.
+1. **<u>Song, L.</u>**, Fan, W. and Li, Y., Time-of-day variations and the temporal instability of multi-vehicle crash injury severities under the influence of alcohol or drugs after the Great Recession, Accepted for Publication, <i>Analytic Methods in Accident Research</i>, June 2021.
 1. Wu, P., Meng, X.#, **Song, L.** (2021). Bayesian space-time modeling of bicycle and pedestrian crash risk by injury severity levels to explore the long-term spatiotemporal effects. <i>Physica A: Statistical Mechanics and its Applications</i> 
 1. Wu, P., Meng, X.#, **Song, L.** (2021). Identification and spatiotemporal evolution analysis of high-risk crash spots in urban roads at the microzone-level: Using the space-time cube method., <i>Journal of Transportation Safety and Security</i> (**SCI, Q4**)
 1. Wu, P., **Song, L.**, Meng, X.# (2021). Influence of built environment and roadway characteristics on the frequency of vehicle crashes caused by driver inattention: a comparison between rural roads and urban roads. <i>Journal of Safety Research</i>. (**SCI, Q2, IF: 2.86**)
