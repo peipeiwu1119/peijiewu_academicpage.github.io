@@ -12,7 +12,7 @@ More info about Li Song can be found in [Research Gate](https://www.researchgate
 <!--**Under Review:**
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
-1. **Song, L.**,  Fan, W.# and Li, Y.,Time-of-day variations and the temporal instability of multi-vehicle crash injury severities under the influence of alcohol or drugs: insights from the economic cycle after the Great Recession, <i>Analytic Methods in Accident Research</i> (under review)
+
 
 1. Wu, P., Meng, X.#, & **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
 
@@ -21,7 +21,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 **Publication:**  
 ====== 
 _**Total: 18 ；SCI: 15； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
-1. **<u>Song, L.</u>**, Fan, W. and Li, Y., Time-of-day variations and the temporal instability of multi-vehicle crash injury severities under the influence of alcohol or drugs after the Great Recession, Accepted for Publication, <i>Analytic Methods in Accident Research</i>, June 2021.
+1. **<u>Song, L.</u>**, Fan, W. and Li, Y. (2021). Time-of-day variations and the temporal instability of multi-vehicle crash injury severities under the influence of alcohol or drugs after the Great Recession, <i>Analytic Methods in Accident Research</i>, June 2021.
 1. Wu, P., Meng, X.#, **<u>Song, L.</u>** (2021). Bayesian space-time modeling of bicycle and pedestrian crash risk by injury severity levels to explore the long-term spatiotemporal effects. <i>Physica A: Statistical Mechanics and its Applications</i> 
 1. Wu, P., Meng, X.#, **<u>Song, L.</u>** (2021). Identification and spatiotemporal evolution analysis of high-risk crash spots in urban roads at the microzone-level: Using the space-time cube method., <i>Journal of Transportation Safety and Security</i> (**SCI, Q4**)
 1. Wu, P., **<u>Song, L.</u>**, Meng, X.# (2021). Influence of built environment and roadway characteristics on the frequency of vehicle crashes caused by driver inattention: a comparison between rural roads and urban roads. <i>Journal of Safety Research</i>. (**SCI, Q2, IF: 2.86**)
