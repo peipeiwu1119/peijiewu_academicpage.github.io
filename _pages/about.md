@@ -40,9 +40,10 @@ GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
 ------
 1. Transportation Research Board (TRB) Annual Meeting 
 1. COTA International Conference for Transportation Professionals
-2. International Journal of Transportation Science and Technology 
-3. Cogent Engineering
-4. Connection Science
+2. International Journal of Transportation Science and Technology
+3. Journal of Traffic and Transportation Engineering (English Edition)
+4. Cogent Engineering
+5. Connection Science
 
 Vistors
 ------
