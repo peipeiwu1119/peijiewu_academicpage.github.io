@@ -26,7 +26,7 @@ author_profile: true
         <td>Wei Fan </td>
         <td>Research Assistant</td>
         <td>NCDOT </td>
-        <td>$1,000,000 ($124,547) </td>
+        <td>(124,547 $) </td>
         <td><a href="https://online.fliphtml5.com/jkjxu/hgpn/?1615675920316#p=14">Spotlight</a></td>
     </tr>
       <tr>
