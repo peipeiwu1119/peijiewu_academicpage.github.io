@@ -18,16 +18,14 @@ Contact Information:
 
 Education 
 ======
-**University of North Carlonia at Charlotte**
+*University of North Carlonia at Charlotte**
 1. 2019/8-Now, PhD candidate, INES(Transportation)
 1. 2019/8-2020/8 Teaching Assistant
 1. 2020/9-Now Research Assistant of CAMMSE<br>
-
-**Harbin Institute of Technology**
+*Harbin Institute of Technology**
 1. 2017/9 to 2019/6, MS, Transportation Planning and Management
 GPA : 3.35/4.0; Rank: 2/30<br>
-
-**Shanghai Maritime University**
+*Shanghai Maritime University**
 1. 2013/9-2017/6, BS, Transport and Communication 
 GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
 
