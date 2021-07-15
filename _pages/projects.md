@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects and Rewards"
+title: "Projects and Awards"
 permalink: /Projects/
 author_profile: true
 ---
@@ -42,7 +42,7 @@ author_profile: true
 </tbody>
 </table>     
 
-# Rewards:
+# Awards:
 
 ## International Level
 2021 "NCSITE Tier III Don Blackburn Memorial Scholarship", NCSITE, USA (1%, 21)  
