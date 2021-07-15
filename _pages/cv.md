@@ -16,5 +16,5 @@ I would be very glad to discuss about any opportunity for cooperations and jobs.
 1. WeChat: `sl345536290`
 1. Phone: `979-318-0375 `
 
-<embed src="https://lisong2019.github.io/lisong.github.io/files/Li-SONG-CV-uncc20210212.pdf" type="application/pdf" height="330px"/>
+<embed src="https://lisong2019.github.io/lisong.github.io/files/Li-SONG-CV- uncc202107.pdf" type="application/pdf" height="330px"/>
 
