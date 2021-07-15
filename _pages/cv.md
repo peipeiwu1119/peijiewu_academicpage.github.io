@@ -7,14 +7,10 @@ redirect_from:
   - /resume
 ---
 
-# (UPDATED IN 2020/12)
+# (UPDATED IN 2021/07)
 I would be very glad to discuss about any opportunity for cooperations and jobs.
-
 ## Contact Information:
-======
-1. Email Address: a) `lsong1@uncc.edu`; b) `345536290@qq.com`;
-1. WeChat: `sl345536290`
-1. Phone: `979-318-0375 `
+1. Email Address: a) `lsong1@uncc.edu`; b) `345536290@qq.com`; 2. WeChat: `sl345536290` 3. Phone: `979-318-0375 `
 
 <embed src="https://lisong2019.github.io/lisong.github.io/files/Li-SONG-CV- uncc202107.pdf" type="application/pdf" height="330px"/>
 
