@@ -28,12 +28,12 @@ GPA : 3.35/4.0; Rank: 2/30<br>
 **Shanghai Maritime University**<br>
 1). 2013/9-2017/6, BS, Transport and Communication 
 GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.<br>
-**Membership**
-------
+Membership
+======
 1. 2020/9-NOW, President, ITE student chapter of UNCC.
 1. 2019/6-NOW, Member, Chinese Overseas Transportation Association (COTA). <br>
-**Referee Service (reviewer)**
-------
+Referee Service (reviewer)
+======
 1. Transportation Research Board (TRB) Annual Meeting 
 1. COTA International Conference for Transportation Professionals
 2. International Journal of Transportation Science and Technology
