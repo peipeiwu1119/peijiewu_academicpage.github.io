@@ -19,20 +19,20 @@ Contact Information:
 Education 
 ======
 **University of North Carlonia at Charlotte**<br>
-1). 2019/8-Now, PhD candidate, INES(Transportation)
-2). 2019/8-2020/8 Teaching Assistant
+1). 2019/8-Now, PhD candidate, INES(Transportation)<br>
+2). 2019/8-2020/8 Teaching Assistant<br>
 3). 2020/9-Now Research Assistant of CAMMSE<br>
 **Harbin Institute of Technology**<br>
 1). 2017/9 to 2019/6, MS, Transportation Planning and Management
 GPA : 3.35/4.0; Rank: 2/30<br>
 **Shanghai Maritime University**<br>
 1). 2013/9-2017/6, BS, Transport and Communication 
-GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.<br>
+GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
 
 Membership
 ======
 1. 2020/9-NOW, President, ITE student chapter of UNCC.
-1. 2019/6-NOW, Member, Chinese Overseas Transportation Association (COTA). <br>
+1. 2019/6-NOW, Member, Chinese Overseas Transportation Association (COTA). 
 
 Referee Service (reviewer)
 ======
@@ -41,7 +41,7 @@ Referee Service (reviewer)
 2. International Journal of Transportation Science and Technology
 3. Journal of Traffic and Transportation Engineering (English Edition)
 4. Cogent Engineering
-5. Connection Science
+5. Connection Science <br>
 
 Vistors
 ------
