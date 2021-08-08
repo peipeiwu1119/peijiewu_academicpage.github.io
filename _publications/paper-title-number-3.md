@@ -11,5 +11,3 @@ citation: 'Peijie Wu, Xianghai Meng,Li Song. (2020). &quot;A novel ensemble lear
 
 
 [Download](https://www.researchgate.net/publication/333646104_A_novel_ensemble_learning_method_for_crash_prediction_using_road_geometric_alignments_and_traffic_data)
-
-
