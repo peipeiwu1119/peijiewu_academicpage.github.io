@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Li Song"
+  name             : "Peijie Wu"
   avatar           : "lisong1.png"
-  bio              : "PhD candidate at University of North Carolina at Charlotte"
-  location         : "Charlotte NC"
+  bio              : "PhD candidate at Harbin Institute of Technology"
+  location         : "Harbin, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=CyNM5yIAAAAJ"
-  email            : "345536290@qq.com"
-  researchgate     : "https://www.researchgate.net/profile/Li_Song60"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=CyNM5yIAAAAJ"
+  email            : "peijiewu@foxmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Peijie-Wu-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/lisong2019"
+  github           : "https://github.com/peipeiwu1119"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4888-6045"
+  orcid            : "https://orcid.org/0000-0003-1599-0521"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
