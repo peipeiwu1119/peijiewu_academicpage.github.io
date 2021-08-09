@@ -18,8 +18,8 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 
 **Publication:**  
 ====== 
-**Total: 14 ；SCI: 8； EI: 3 ；Chinese Core-index: 3** <br>
-**First Author** <br>
+_**Total: 14 ；SCI: 8； EI: 3 ；Chinese Core-index: 3**_<br>
+_**First Author** _<br>
 1. **<u>Wu, P.,</u>** Meng, X.#, Song, L.(2021). Bayesian space-time modeling of bicycle and pedestrian crash risk by injury severity levels to explore the long-term spatiotemporal effects. <i>Physica A: Statistical Mechanics and its Applications</i>, 581, 126171. (**SCI, Q2, IF:3.3**) \[[DOI](https://doi.org/10.1016/j.physa.2021.126171)\]\[[PDF](https://lisong2019.github.io/lisong.github.io/files/PAPER/WU_2021_PhysA_Bayesian space–time modeling of bicycle and pedestrian crash risk by injury severity levels to explore the long-term spatiotemporal effects.pdf)\]
 2. **<u>Wu, P.,</u>** Meng, X.#, Song, L.(2021). Identification and spatiotemporal evolution analysis of high-risk crash spots in urban roads at the microzone-level: Using the space-time cube method. <i>Journal of Transportation Safety and Security</i> (**SCI, Q3, IF:3.0**) \[[DOI](https://doi.org/10.1080/19439962.2021.1938323)\]\[[PDF](https://lisong2019.github.io/lisong.github.io/files/PAPER/WU_2021_JTSS_Identification and spatiotemporal evolution analysis of high risk crash spots in urban roads at the microzone level Using the space time cube method.pdf)\]
 3. **<u>Wu, P.,</u>** Song, L., Meng, X.# (2021). Influence of built environment and roadway characteristics on the frequency of vehicle crashes caused by driver inattention: a comparison between rural roads and urban roads. <i>Journal of Safety Research</i>. (**SCI, Q2, IF: 3.5**)
@@ -31,7 +31,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 
 
 
-**Other Author** <br>
+_**Other Author**_<br>
 1. Song, L., Fan, W.,# Li, Y., **<u>Wu, P.</u>** (2021). Exploring Pedestrian Injury Severities at Pedestrian-Vehicle Crash Hotspots with An Annual Upward Trend: A Spatiotemporal Analysis with Latent Class Random Parameter Approach, <i>Journal of Safety Research</i>, 76, 184-196. (**SCI, Q2, IF: 3.5**)\[[DOI](https://doi.org/10.1016/j.jsr.2020.12.008)\]\[[PDF](https://lisong2019.github.io/lisong.github.io/files/PAPER/Song_2021_JSR.pdf)\]
 2. Song, L., Li, Y., Fan, W., **<u>Wu, P.</u>** (2020). Modeling pedestrian-injury severities in pedestrian-vehicle crashes considering spatiotemporal patterns: insights from different hierarchical Bayesian random-effects models. <i>Analytic Methods in Accident Research</i>, 28, 100137.(**SCI, Q1, IF:11.8, Ranked 1st in Transportation Journals**)\[[DOI](https://doi.org/10.1016/j.amar.2020.100137)\]\[[PDF](https://lisong2019.github.io/lisong.github.io/files/PAPER/Song_AMAR_2020_pedestrian-vehicle_crashes_considering_spatiotemporal_patterns.pdf)\]
 3. Wang, X., Song, L., Wu, Z., **<u>Wu, P.</u>** (2019). Development of a road shoulder's equivalent sound source traffic noise prediction model. Proceedings of the Institution of Civil Engineers-Transport, 1-10. (**SCI, Q4, IF:1.1**) \[[DOI](https://doi.org/10.1680/jtran.18.00105)\]\[[PDF](https://lisong2019.github.io/lisong.github.io/files/PAPER/ICE_t_2018_traffic_noise.pdf)\]
