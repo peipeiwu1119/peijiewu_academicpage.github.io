@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-More info about Li Song can be found in [Research Gate](https://www.researchgate.net/profile/Peijie-Wu-4).<br>
+More info about Peijie Wu can be found in [Research Gate](https://www.researchgate.net/profile/Peijie-Wu-4).<br>
 
 
 <!--**Under Review:**
