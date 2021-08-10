@@ -40,5 +40,13 @@ _**Other Author**_<br>
 6. Meng, X.#, **Wu, P.,** Li, L. (2020). The Exploration and Achievements of the Transit Metropolis with Chinese Characteristics. Highway Engineering. 45 (6): 117-123. (**Chinese Core Journals**)
 7. Meng, X.#, Zhang, D., **Wu, P.** (2018). The Optimal Sliding Window Length and Increment Length For Identifying Hazardous Road Segments. Journal of Transportation System Engineering and Information Technology, 18(4), 148-155. (**EI**) 
 
-
+_**Patent**_<br>
+1. Meng, X., **Wu, P.,** Liang, X., Liu, Z., Liu, X. Sudden accident type recognizing method of two-display signal controlled cross-shaped intersection, No.: CN108198423B.
+2. Wang, X., Song, L., **Wu, P.** A fire alarm and automatic fire extinguishing system for dangerous chemicals containers, No.: CN108815782B.
+3. Meng, X., Liu, X., Meng, L., Liu, Z., **Wu, P.** High-speed rail passenger flow demand forecasting method based on highway network passenger flow, No.: CN108198423B.
+4. Meng, X., Zhang, E., **Wu, P.,** Song, D., Jia, Y. Mobile house planning method under background of unmanned driving technology, No.: CN111196202A.
+5. Chen, J., **Wu, P.,** Wang, J., Fan, W., Liu, Y., Sun, Y. Power-assisted passage system of bicycles, applied to mountain cities, No.: CN105951546B.
+6. Chen, J., **Wu, P.,** He, Y., He, H., Wang, Y., Qin, Y. City signal intersection safety guiding method and system based on holographic projection technology, No.: CN105702060B.
+7. Wang, X., Song, L., **Wu, P.** Connecting and locking device and container, No.: CN108382751A.
+8. Meng, X., Liu, X., Liang, X., **Wu, P.,** Liu, Z. Traffic safety evaluation method of road network planning scheme, No.: CN108109378A.
 
