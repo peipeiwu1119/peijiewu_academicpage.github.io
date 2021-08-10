@@ -39,7 +39,7 @@ _**Other Author**_<br>
 5. Wang, X., Song, L., **Wu, P.** (2018, September). A Novel Method of Island Port's Transport: Automatic Guided Vehicle Approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE) (pp. 219-224). IEEE. (**EI**) \[[DOI](https://doi.org/10.1109/ICITE.2018.8492567)\]\[[PDF](https://lisong2019.github.io/lisong.github.io/files/PAPER/ICITE2018-8.pdf)\]
 6. Meng, X.#, **Wu, P.,** Li, L. (2020). The Exploration and Achievements of the Transit Metropolis with Chinese Characteristics. Highway Engineering. 45 (6): 117-123. (**Chinese Core Journals**)
 7. Meng, X.#, Zhang, D., **Wu, P.** (2018). The Optimal Sliding Window Length and Increment Length For Identifying Hazardous Road Segments. Journal of Transportation System Engineering and Information Technology, 18(4), 148-155. (**EI**) 
-8. Liu, X., Pan, C., Wang, H., Wu, P., Meng, X.# An improved Bayesian Network Model of injury and Fatal Crashes on Freeways in Mountainous Areas and Contributing Factors. Journal of Transportation Engineering, 20(3), 7-13.
+8. Liu, X., Pan, C., Wang, H., **Wu, P.,** Meng, X.# An improved Bayesian Network Model of injury and Fatal Crashes on Freeways in Mountainous Areas and Contributing Factors. Journal of Transportation Engineering, 20(3), 7-13.
 
 _**Patent**_<br>
 1. Meng, X., **Wu, P.,** Liang, X., Liu, Z., Liu, X. Sudden accident type recognizing method of two-display signal controlled cross-shaped intersection, No.: CN108198423B.
