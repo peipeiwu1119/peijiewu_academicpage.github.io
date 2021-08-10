@@ -19,7 +19,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 **Publication:**  
 ====== 
 _**Total: 14 ；SCI: 8； EI: 3 ；Chinese Core-index: 3**_<br>
-_**First Author** _<br>
+_**First Author**_<br>
 1. **Wu, P.,** Meng, X.#, Song, L.(2021). Bayesian space-time modeling of bicycle and pedestrian crash risk by injury severity levels to explore the long-term spatiotemporal effects. <i>Physica A: Statistical Mechanics and its Applications</i>, 581, 126171. (**SCI, Q2, IF:3.3**) \[[DOI](https://doi.org/10.1016/j.physa.2021.126171)\]\[[PDF](https://lisong2019.github.io/lisong.github.io/files/PAPER/WU_2021_PhysA_Bayesian space–time modeling of bicycle and pedestrian crash risk by injury severity levels to explore the long-term spatiotemporal effects.pdf)\]
 2. **Wu, P.,** Meng, X.#, Song, L.(2021). Identification and spatiotemporal evolution analysis of high-risk crash spots in urban roads at the microzone-level: Using the space-time cube method. <i>Journal of Transportation Safety and Security</i> (**SCI, Q3, IF:3.0**) \[[DOI](https://doi.org/10.1080/19439962.2021.1938323)\]\[[PDF](https://lisong2019.github.io/lisong.github.io/files/PAPER/WU_2021_JTSS_Identification and spatiotemporal evolution analysis of high risk crash spots in urban roads at the microzone level Using the space time cube method.pdf)\]
 3. **Wu, P.,** Song, L., Meng, X.# (2021). Influence of built environment and roadway characteristics on the frequency of vehicle crashes caused by driver inattention: a comparison between rural roads and urban roads. <i>Journal of Safety Research</i>. (**SCI, Q2, IF: 3.5**)
