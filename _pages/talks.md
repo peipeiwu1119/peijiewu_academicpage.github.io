@@ -16,7 +16,9 @@ Including conference of hosting, oral presentation, poster, and attendance only.
 
 
 **Poster:**<br>
-1. **Wu, P.,** Meng, X., Song, L., Zuo, W. (2019). Title: Crash risk evaluation and crash severity pattern analysis for different types of urban junctions. In 2019 Transportation Research Board 99th Annual Meeting. (Washington D.C., U.S.)
+1. **Wu, P.,** Meng, X., Song, L., Zuo, W. (2019). Title: Crash risk evaluation and crash severity pattern analysis for different types of urban junctions. In 2019 Transportation Research Board 99th Annual Meeting. (Washington D.C., U.S.)<br>
+<img src="https://raw.githubusercontent.com/peipeiwu1119/wupeijie/master/images/Photo of 2019TRB.jpg" width="50%" height="50%"><br>
+
 2. Zhang, D., **Wu, P.,** Meng, X.  (2018). Title: The optimal sliding window length and increment length for identifying hazardous road segments. In 2018 Transportation Research Board 98th Annual Meeting.
 
 
