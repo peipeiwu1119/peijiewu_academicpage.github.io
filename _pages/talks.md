@@ -9,7 +9,9 @@ Including conference of hosting, oral presentation, poster, and attendance only.
 
 **Oral Presentation:** <br>
 1.  **Wu, P.**, (2018, Oct.). Title: Leadership in transportation powerful country dream. Forum of Chinese Transportation College Dean, Jinan, China.
-2.  **Wu, P.**, (2021, Aug.). Title: Methodology of crash risk. Nanyang Technological University Academic Siminar, Singapore. 
+<img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="50%" height="50%">
+
+3.  **Wu, P.**, (2021, Aug.). Title: Methodology of crash risk. Nanyang Technological University Academic Siminar, Singapore. 
 
 
 **Poster:**<br>
