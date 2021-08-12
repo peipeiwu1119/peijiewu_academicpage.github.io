@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Including conference of hosting, oral presentation, poster, and attendance only.<br>
+Including conference of oral presentation, poster, attendence only.<br>
 
 **Oral Presentation:** <br>
 1.  **Wu, P.**, (2018, Oct.). Title: Leadership in transportation powerful country dream. Forum of Chinese Transportation College Dean, Jinan, China.<br>
@@ -22,4 +22,4 @@ Including conference of hosting, oral presentation, poster, and attendance only.
 2. Zhang, D., **Wu, P.,** Meng, X.  (2018). Title: The optimal sliding window length and increment length for identifying hazardous road segments. In 2018 Transportation Research Board 98th Annual Meeting.
 
 
-
+**Attendence:**<br>
