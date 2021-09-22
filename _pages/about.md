@@ -13,7 +13,7 @@ Peijie Wu (吴佩洁) is a Ph.D. candidate major in Transportation Planning and 
 
 Contact Information:
 ======
-1. Email Address: a） `517957087@qq.com `; b) `peijiewu@foxmail.com <br>
+1. Email Address: a） `517957087@qq.com `; b) `peijiewu@foxmail.com `<br>
 1. WeChat:  `peipeiwu55 <br>
 
 Education 
@@ -30,6 +30,7 @@ Leadership and Activities:
 2019                  Volunteer of “Intelligent Transportation, International Summer School” in Harbin, China. <br>
 Volunteer of “Forum of Chinese Transportation College Dean” in Dalian, China. <br>
 2018                  Organizer of “Forum of Chinese Transportation College Dean” in Jinan, China. <br>
+2017                  Harvard Leadership Winter Camp (sponsored by Ming De scholarship)
 2017                  Vice president of graduate student’s union of transportation science and engineering school in HIT. <br>
 Volunteer of Working Conference of the Steering Committee for Higher Education Transportation Education of the Ministry of Education. <br>
 2014                  Director of Propaganda Department of student’s union of transportation school in CQJTU. <br>
