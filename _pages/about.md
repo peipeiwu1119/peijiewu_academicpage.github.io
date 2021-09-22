@@ -23,5 +23,14 @@ Education
   PhD candidate, research direction:road traffic safety <br>
 **Chongqing Jiaotong University**<br>
   2013/9-2017/6, BS, Traffic engineering <br>
-  GPA : 4.2/5.0; Rank: 1/95; Comprehensive Assessment: 1/95.
+  GPA : 4.2/5.0; Rank: 1/95; Comprehensive Assessment: 1/95 <br>
 
+Leadership and Activities:
+======
+2019                  Volunteer of “Intelligent Transportation, International Summer School” in Harbin, China. <br>
+Volunteer of “Forum of Chinese Transportation College Dean” in Dalian, China. <br>
+2018                  Organizer of “Forum of Chinese Transportation College Dean” in Jinan, China. <br>
+2017                  Vice president of graduate student’s union of transportation science and engineering school in HIT. <br>
+Volunteer of Working Conference of the Steering Committee for Higher Education Transportation Education of the Ministry of Education. <br>
+2014                  Director of Propaganda Department of student’s union of transportation school in CQJTU. <br>
+2013                  Member of Chinese Young Volunteers Association (CYVA). <br>
