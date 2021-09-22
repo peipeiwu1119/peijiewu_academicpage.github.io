@@ -19,9 +19,9 @@ Contact Information:
 Education 
 ======
 **Harbin Institute of Technology**<br>
-1). 2017/9 to now, Transportation Planning and Management
+  2017/9 to now, Transportation Planning and Management
 PhD candidate, research direction:road traffic safety <br>
 **Chongqing Jiaotong University**<br>
-1). 2013/9-2017/6, BS, Traffic engineering
+  2013/9-2017/6, BS, Traffic engineering
 GPA : 4.2/5.0; Rank: 1/95; Comprehensive Assessment: 1/95.
 
